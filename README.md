@@ -15,6 +15,8 @@ The Main Objective of this project is to analyze retail sales data to gain actio
 6. Which products are the best selling in terms of quantity and revenue?
 7. How do orders vary by type?
 
+## Dashboards:
+![Sales Dashboard](https://github.com/user-attachments/assets/29bf728d-b65e-4dc3-8eb9-f952f03997d0)
 
 # Insights:
 
